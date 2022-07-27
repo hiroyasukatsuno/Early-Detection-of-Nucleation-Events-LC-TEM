@@ -24,7 +24,7 @@ The dataset for training will be opened.
 
 
 ## Citation
-Hiroyasu Katsuno, Yuki Kimura, Tomoya Yamazaki and Ichigaku Takigawa, Front. Chem. doi:10.3389/fchem.2022.818230.
+Hiroyasu Katsuno, Yuki Kimura, Tomoya Yamazaki and Ichigaku Takigawa, Front. Chem. (2022) (doi:[10.3389/fchem.2022.818230](https://doi.org/10.3389/fchem.2022.818230)).
 
 
 ### License
