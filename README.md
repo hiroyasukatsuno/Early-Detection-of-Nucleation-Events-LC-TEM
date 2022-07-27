@@ -10,11 +10,11 @@ See the [official page](https://github.com/ultralytics/yolov5).
 
 ## Detect
 `
-$ python detect.py --source images/val/0000.bmp --weights weights/params.pt
+$ python detect.py --source images/val/0032.bmp --weights weights/params.pt
 `
 
 The result will be created in the new folder such as runs/detect/exp.
-![0000.bmp](0000.bmp)
+![0032.bmp](0032.bmp)
 
 
 
