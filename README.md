@@ -1,6 +1,6 @@
 # Early-Detection-of-Nucleation-Events-LC-TEM
 
--weights/params.pt<br/>
+- weights/params.pt<br/>
 Model parameter of yolov5s used in ["Early Detection of Nucleation Events From Solution in LC-TEM by Machine Learning"](https://doi.org/10.3389/fchem.2022.818230).
 
 
