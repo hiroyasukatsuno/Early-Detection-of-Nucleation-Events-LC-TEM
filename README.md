@@ -21,11 +21,11 @@ The result will be created in the new folder such as runs/detect/exp.
 
 ## Dataset 
 
-The dataset for training will be opened.
+The dataset for training is available in the Zenodo: [10.5281/zenodo.6948105](https://doi.org/10.5281/zenodo.6948105).
 
 
 ## Citation
-Hiroyasu Katsuno, Yuki Kimura, Tomoya Yamazaki and Ichigaku Takigawa, Front. Chem. 10 (2022) 818230 (doi:[10.3389/fchem.2022.818230](https://doi.org/10.3389/fchem.2022.818230)).
+Hiroyasu Katsuno, Yuki Kimura, Tomoya Yamazaki and Ichigaku Takigawa, Front. Chem. **10** (2022) 818230 (doi:[10.3389/fchem.2022.818230](https://doi.org/10.3389/fchem.2022.818230)).
 
 
 ### License
